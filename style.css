@@ -1,0 +1,39 @@
+h1{ color: brown;
+    background-color: cornsilk;
+    border-radius: 5%;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ font-size: 20px; 
+}
+p{
+color: black;
+}
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: goldenrod;
+}
+#fin{
+    text-align: center;
+    background-color: cornsilk;
+    margin-bottom: 50px;
+    
+}
+a{
+    color: gold;
+}
+.imag{
+    background-color: black;
+    list-style-type: disc;
+    padding: 19px;
+}
+.P3{
+    display: flex;
+
+}
+footer{
+    background-color: white;
+    
+}
+
+
+
