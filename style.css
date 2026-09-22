@@ -8,8 +8,8 @@ p{
 color: black;
 }
 body{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
     background-color: white;
 }
 #fin{
@@ -22,17 +22,29 @@ a{
     color: gold;
 }
 .imag{
-    background-color: black;
+    background-color: whitesmoke;
     list-style-type: disc;
     padding: 19px;
+    display: flex;
 }
 .P3{
-    display: flex;
+    display: block;
+    margin-left:150px ;
 
 }
 footer{
     background-color: white;
     
+}
+.fonction{
+   background-color: yellow; 
+}
+.interf{
+    background-color: black;
+}
+#p4{
+    font-size: 20px ;
+    color: antiquewhite;
 }
 
 
